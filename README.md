@@ -32,3 +32,5 @@ Trends in ticket resolution
 This was an incredibly insightful exercise! 🎯 By setting up my own company (Roco Private Ltd.) and generating mock tickets, I got realistic exposure to Zendesk’s workflow. Tracking everything in Excel added a layer of data-driven analysis 📊, helping me understand support metrics better.
 
 Excited to keep refining my skills! 🚀
+<br>
+Author: Aleeza Tabassum

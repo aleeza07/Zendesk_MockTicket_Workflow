@@ -2,7 +2,10 @@
 
 <br>
 🚀 Daily Progress Update: Zendesk CRM Mock Tickets (50+ Tickets Handled!)
-Today, I worked on another 10 mock tickets 🎫 for my company, Roco Private Limited 🏢. With this, I’ve now successfully handled 50+ tickets in Zendesk CRM! 🎉
+<br>
+Today, I worked on another 10 mock tickets 🎫 for my company, Roco Private Limited 🏢. 
+<br>
+With this, I’ve now successfully handled 50+ tickets in Zendesk CRM! 🎉
 
 🔹 Key Tasks & Learnings:
 
@@ -11,6 +14,7 @@ Today, I worked on another 10 mock tickets 🎫 for my company, Roco Private Lim
 -Ensured all responses were provided within SLA limits ⏳, simulating real-world support scenarios.
 
 -Gained hands-on experience in navigating the Zendesk workspace 🖥️, making the platform feel intuitive.
+<br>
 
 📊 Workflow Tracking & Analysis:
 

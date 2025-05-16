@@ -1,5 +1,5 @@
 # Zendesk Ticket Analysis Dashboard
-Zendesk CRM Mock Tickets (50+ Tickets Handled!)
+
 <br>
 🚀 Daily Progress Update: Zendesk CRM Mock Tickets (50+ Tickets Handled!)
 Today, I worked on another 10 mock tickets 🎫 for my company, Roco Private Limited 🏢. With this, I’ve now successfully handled 50+ tickets in Zendesk CRM! 🎉

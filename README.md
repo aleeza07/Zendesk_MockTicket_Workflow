@@ -1,4 +1,4 @@
-# Zendesk_MockTicket_Workflow
+# Zendesk Ticket Analysis Dashboard
 Zendesk CRM Mock Tickets (50+ Tickets Handled!)
 <br>
 🚀 Daily Progress Update: Zendesk CRM Mock Tickets (50+ Tickets Handled!)
